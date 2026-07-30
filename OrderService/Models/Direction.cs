@@ -6,7 +6,7 @@ namespace OrderService.Models
 {
     public enum Direction
     {
-        Buy,
-        Sell
+        Buy=1,
+        Sell=2
     }
 }

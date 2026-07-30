@@ -1,8 +1,7 @@
 {
   "profiles": {
     "OrderApp": {
-      "commandName": "Project",
-      "commandLineArgs": "2 C:\\Test\\orders.json"
+      "commandName": "Project"
     }
   }
 }
